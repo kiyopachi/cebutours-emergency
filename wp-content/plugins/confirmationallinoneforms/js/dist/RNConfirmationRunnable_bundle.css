@@ -1,0 +1,8 @@
+rn-confirmation-review-control{
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+}
+
+.reviewTable>tr>td{
+    padding: 5PX;
+}
